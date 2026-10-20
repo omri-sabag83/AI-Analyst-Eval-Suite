@@ -1,0 +1,622 @@
+period,dimension,value,cnt,period_total
+recent_baseline_may_jul_2026,complaint_type,Illegal Parking,162143,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise - Residential,101278,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise - Street/Sidewalk,69216,1009896
+recent_baseline_may_jul_2026,complaint_type,Blocked Driveway,47685,1009896
+recent_baseline_may_jul_2026,complaint_type,UNSANITARY CONDITION,35934,1009896
+recent_baseline_may_jul_2026,complaint_type,Street Condition,32774,1009896
+recent_baseline_may_jul_2026,complaint_type,Water System,31420,1009896
+recent_baseline_may_jul_2026,complaint_type,PLUMBING,20702,1009896
+recent_baseline_may_jul_2026,complaint_type,Abandoned Vehicle,20613,1009896
+recent_baseline_may_jul_2026,complaint_type,Damaged Tree,20014,1009896
+recent_baseline_may_jul_2026,complaint_type,Dirty Condition,19181,1009896
+recent_baseline_may_jul_2026,complaint_type,HEAT/HOT WATER,18542,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise - Commercial,17053,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise - Vehicle,17021,1009896
+recent_baseline_may_jul_2026,complaint_type,PAINT/PLASTER,16227,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise,15340,1009896
+recent_baseline_may_jul_2026,complaint_type,Encampment,14780,1009896
+recent_baseline_may_jul_2026,complaint_type,Traffic Signal Condition,13586,1009896
+recent_baseline_may_jul_2026,complaint_type,DOOR/WINDOW,12553,1009896
+recent_baseline_may_jul_2026,complaint_type,General Construction/Plumbing,11628,1009896
+recent_baseline_may_jul_2026,complaint_type,GENERAL,11542,1009896
+recent_baseline_may_jul_2026,complaint_type,Maintenance or Facility,11215,1009896
+recent_baseline_may_jul_2026,complaint_type,Overgrown Tree/Branches,11012,1009896
+recent_baseline_may_jul_2026,complaint_type,Illegal Dumping,10903,1009896
+recent_baseline_may_jul_2026,complaint_type,WATER LEAK,10854,1009896
+recent_baseline_may_jul_2026,complaint_type,Sewer,10308,1009896
+recent_baseline_may_jul_2026,complaint_type,Missed Collection,10238,1009896
+recent_baseline_may_jul_2026,complaint_type,Homeless Person Assistance,10084,1009896
+recent_baseline_may_jul_2026,complaint_type,Derelict Vehicles,9736,1009896
+recent_baseline_may_jul_2026,complaint_type,Illegal Fireworks,9155,1009896
+recent_baseline_may_jul_2026,complaint_type,Street Light Condition,9038,1009896
+recent_baseline_may_jul_2026,complaint_type,ELECTRIC,8955,1009896
+recent_baseline_may_jul_2026,complaint_type,Rodent,8219,1009896
+recent_baseline_may_jul_2026,complaint_type,FLOORING/STAIRS,7496,1009896
+recent_baseline_may_jul_2026,complaint_type,Sidewalk Condition,7329,1009896
+recent_baseline_may_jul_2026,complaint_type,Elevator,7325,1009896
+recent_baseline_may_jul_2026,complaint_type,Vendor Enforcement,7289,1009896
+recent_baseline_may_jul_2026,complaint_type,Building/Use,7225,1009896
+recent_baseline_may_jul_2026,complaint_type,APPLIANCE,6490,1009896
+recent_baseline_may_jul_2026,complaint_type,Non-Emergency Police Matter,6485,1009896
+recent_baseline_may_jul_2026,complaint_type,Obstruction,6354,1009896
+recent_baseline_may_jul_2026,complaint_type,Consumer Complaint,6024,1009896
+recent_baseline_may_jul_2026,complaint_type,For Hire Vehicle Complaint,5089,1009896
+recent_baseline_may_jul_2026,complaint_type,Dead/Dying Tree,4977,1009896
+recent_baseline_may_jul_2026,complaint_type,Graffiti,4916,1009896
+recent_baseline_may_jul_2026,complaint_type,Food Establishment,4152,1009896
+recent_baseline_may_jul_2026,complaint_type,Residential Disposal Complaint,3825,1009896
+recent_baseline_may_jul_2026,complaint_type,SAFETY,3782,1009896
+recent_baseline_may_jul_2026,complaint_type,Lead,3548,1009896
+recent_baseline_may_jul_2026,complaint_type,Dead Animal,3500,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise - Park,3230,1009896
+recent_baseline_may_jul_2026,complaint_type,Panhandling,3202,1009896
+recent_baseline_may_jul_2026,complaint_type,Indoor Air Quality,3076,1009896
+recent_baseline_may_jul_2026,complaint_type,Root/Sewer/Sidewalk Condition,3073,1009896
+recent_baseline_may_jul_2026,complaint_type,Animal-Abuse,2965,1009896
+recent_baseline_may_jul_2026,complaint_type,Taxi Complaint,2778,1009896
+recent_baseline_may_jul_2026,complaint_type,Air Quality,2597,1009896
+recent_baseline_may_jul_2026,complaint_type,Drug Activity,2556,1009896
+recent_baseline_may_jul_2026,complaint_type,Curb Condition,2490,1009896
+recent_baseline_may_jul_2026,complaint_type,Street Sweeping Complaint,2316,1009896
+recent_baseline_may_jul_2026,complaint_type,Water Maintenance,2306,1009896
+recent_baseline_may_jul_2026,complaint_type,Violation of Park Rules,2225,1009896
+recent_baseline_may_jul_2026,complaint_type,Illegal Tree Damage,2217,1009896
+recent_baseline_may_jul_2026,complaint_type,Traffic,2093,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise - Helicopter,2051,1009896
+recent_baseline_may_jul_2026,complaint_type,Smoking or Vaping,1985,1009896
+recent_baseline_may_jul_2026,complaint_type,Animal in a Park,1842,1009896
+recent_baseline_may_jul_2026,complaint_type,Lost Property,1818,1009896
+recent_baseline_may_jul_2026,complaint_type,Real Time Enforcement,1816,1009896
+recent_baseline_may_jul_2026,complaint_type,Water Conservation,1726,1009896
+recent_baseline_may_jul_2026,complaint_type,Drinking,1676,1009896
+recent_baseline_may_jul_2026,complaint_type,Illegal Posting,1545,1009896
+recent_baseline_may_jul_2026,complaint_type,Sewer Maintenance,1507,1009896
+recent_baseline_may_jul_2026,complaint_type,Street Sign - Damaged,1329,1009896
+recent_baseline_may_jul_2026,complaint_type,Litter Basket Request,1272,1009896
+recent_baseline_may_jul_2026,complaint_type,Outdoor Dining,1243,1009896
+recent_baseline_may_jul_2026,complaint_type,Cannabis Retailer,1228,1009896
+recent_baseline_may_jul_2026,complaint_type,Highway Condition,1210,1009896
+recent_baseline_may_jul_2026,complaint_type,Plumbing,1056,1009896
+recent_baseline_may_jul_2026,complaint_type,Special Projects Inspection Team (SPIT),956,1009896
+recent_baseline_may_jul_2026,complaint_type,Unsanitary Animal Pvt Property,916,1009896
+recent_baseline_may_jul_2026,complaint_type,Street Sign - Missing,883,1009896
+recent_baseline_may_jul_2026,complaint_type,Emergency Response Team (ERT),869,1009896
+recent_baseline_may_jul_2026,complaint_type,Street Sign - Dangling,823,1009896
+recent_baseline_may_jul_2026,complaint_type,Food Poisoning,810,1009896
+recent_baseline_may_jul_2026,complaint_type,Sanitation Worker or Vehicle Complaint,809,1009896
+recent_baseline_may_jul_2026,complaint_type,Mobile Food Vendor,805,1009896
+recent_baseline_may_jul_2026,complaint_type,Wood Pile Remaining,805,1009896
+recent_baseline_may_jul_2026,complaint_type,Noise - House of Worship,803,1009896
+recent_baseline_may_jul_2026,complaint_type,Standing Water,772,1009896
+recent_baseline_may_jul_2026,complaint_type,Broken Parking Meter,741,1009896
+recent_baseline_may_jul_2026,complaint_type,Bike/Roller/Skate,731,1009896
+recent_baseline_may_jul_2026,complaint_type,Abandoned Bike,713,1009896
+recent_baseline_may_jul_2026,complaint_type,Lot Condition,649,1009896
+recent_baseline_may_jul_2026,complaint_type,Dumpster Complaint,635,1009896
+recent_baseline_may_jul_2026,complaint_type,Hazardous Materials,610,1009896
+recent_baseline_may_jul_2026,complaint_type,ELEVATOR,570,1009896
+recent_baseline_may_jul_2026,complaint_type,Unsanitary Pigeon Condition,567,1009896
+recent_baseline_may_jul_2026,complaint_type,Electrical,563,1009896
+recent_baseline_may_jul_2026,complaint_type,Boilers,559,1009896
+recent_baseline_may_jul_2026,complaint_type,Unleashed Dog,543,1009896
+recent_baseline_may_jul_2026,complaint_type,Urinating in Public,528,1009896
+recent_baseline_may_jul_2026,complaint_type,Litter Basket Complaint,497,1009896
+recent_baseline_may_jul_2026,complaint_type,Day Care,497,1009896
+recent_baseline_may_jul_2026,complaint_type,Commercial Disposal Complaint,494,1009896
+recent_baseline_may_jul_2026,complaint_type,Asbestos,473,1009896
+recent_baseline_may_jul_2026,complaint_type,Industrial Waste,428,1009896
+recent_baseline_may_jul_2026,complaint_type,Construction Lead Dust,361,1009896
+recent_baseline_may_jul_2026,complaint_type,Bus Stop Shelter Complaint,341,1009896
+recent_baseline_may_jul_2026,complaint_type,Water Quality,294,1009896
+recent_baseline_may_jul_2026,complaint_type,OUTSIDE BUILDING,286,1009896
+recent_baseline_may_jul_2026,complaint_type,Bike Rack,276,1009896
+recent_baseline_may_jul_2026,complaint_type,New Tree Request,257,1009896
+recent_baseline_may_jul_2026,complaint_type,Indoor Sewage,219,1009896
+recent_baseline_may_jul_2026,complaint_type,Taxi Report,219,1009896
+recent_baseline_may_jul_2026,complaint_type,For Hire Vehicle Report,207,1009896
+recent_baseline_may_jul_2026,complaint_type,Mosquitoes,194,1009896
+recent_baseline_may_jul_2026,complaint_type,E-Scooter,164,1009896
+recent_baseline_may_jul_2026,complaint_type,Uprooted Stump,162,1009896
+recent_baseline_may_jul_2026,complaint_type,Illegal Animal Kept as Pet,162,1009896
+recent_baseline_may_jul_2026,complaint_type,Investigations and Discipline (IAD),161,1009896
+recent_baseline_may_jul_2026,complaint_type,Hazardous Material,148,1009896
+recent_baseline_may_jul_2026,complaint_type,Beach/Pool/Sauna Complaint,136,1009896
+recent_baseline_may_jul_2026,complaint_type,Harboring Bees/Wasps,135,1009896
+recent_baseline_may_jul_2026,complaint_type,BEST/Site Safety,124,1009896
+recent_baseline_may_jul_2026,complaint_type,Ferry Inquiry,120,1009896
+recent_baseline_may_jul_2026,complaint_type,Poison Ivy,108,1009896
+recent_baseline_may_jul_2026,complaint_type,Mold,93,1009896
+recent_baseline_may_jul_2026,complaint_type,LinkNYC,89,1009896
+recent_baseline_may_jul_2026,complaint_type,Green Taxi Complaint,87,1009896
+recent_baseline_may_jul_2026,complaint_type,Plant,84,1009896
+recent_baseline_may_jul_2026,complaint_type,Drinking Water,83,1009896
+recent_baseline_may_jul_2026,complaint_type,Pet Sale,77,1009896
+recent_baseline_may_jul_2026,complaint_type,Ferry Complaint,76,1009896
+recent_baseline_may_jul_2026,complaint_type,Bridge Condition,73,1009896
+recent_baseline_may_jul_2026,complaint_type,Bus Stop Shelter Placement,70,1009896
+recent_baseline_may_jul_2026,complaint_type,Disorderly Youth,66,1009896
+recent_baseline_may_jul_2026,complaint_type,Tattooing,66,1009896
+recent_baseline_may_jul_2026,complaint_type,Scaffold Safety,61,1009896
+recent_baseline_may_jul_2026,complaint_type,Green Infrastructure,59,1009896
+recent_baseline_may_jul_2026,complaint_type,Cooling Tower,45,1009896
+recent_baseline_may_jul_2026,complaint_type,Bench,43,1009896
+recent_baseline_may_jul_2026,complaint_type,AHV Inspection Unit,42,1009896
+recent_baseline_may_jul_2026,complaint_type,Tobacco or Non-Tobacco Sale,42,1009896
+recent_baseline_may_jul_2026,complaint_type,Recycling Basket Complaint,38,1009896
+recent_baseline_may_jul_2026,complaint_type,Posting Advertisement,30,1009896
+recent_baseline_may_jul_2026,complaint_type,Taxi Compliment,27,1009896
+recent_baseline_may_jul_2026,complaint_type,Illegal Animal Sold,25,1009896
+recent_baseline_may_jul_2026,complaint_type,Cranes and Derricks,24,1009896
+recent_baseline_may_jul_2026,complaint_type,Building Drinking Water Tank,23,1009896
+recent_baseline_may_jul_2026,complaint_type,Animal Facility - No Permit,21,1009896
+recent_baseline_may_jul_2026,complaint_type,Public Toilet,21,1009896
+recent_baseline_may_jul_2026,complaint_type,Non-Residential Heat,20,1009896
+recent_baseline_may_jul_2026,complaint_type,Found Property,20,1009896
+recent_baseline_may_jul_2026,complaint_type,Special Operations,18,1009896
+recent_baseline_may_jul_2026,complaint_type,Highway Sign - Damaged,17,1009896
+recent_baseline_may_jul_2026,complaint_type,Lifeguard,14,1009896
+recent_baseline_may_jul_2026,complaint_type,Special Natural Area District (SNAD),12,1009896
+recent_baseline_may_jul_2026,complaint_type,Highway Sign - Missing,11,1009896
+recent_baseline_may_jul_2026,complaint_type,Building Marshal's Office,11,1009896
+recent_baseline_may_jul_2026,complaint_type,Unsanitary Animal Facility,10,1009896
+recent_baseline_may_jul_2026,complaint_type,Municipal Parking Facility,9,1009896
+recent_baseline_may_jul_2026,complaint_type,Green Taxi Report,8,1009896
+recent_baseline_may_jul_2026,complaint_type,Incorrect Data,8,1009896
+recent_baseline_may_jul_2026,complaint_type,Window Guard,7,1009896
+recent_baseline_may_jul_2026,complaint_type,Institution Disposal Complaint,7,1009896
+recent_baseline_may_jul_2026,complaint_type,Wayfinding,6,1009896
+recent_baseline_may_jul_2026,complaint_type,Borough Office,5,1009896
+recent_baseline_may_jul_2026,complaint_type,Radioactive Material,4,1009896
+recent_baseline_may_jul_2026,complaint_type,Dept of Investigations,3,1009896
+recent_baseline_may_jul_2026,complaint_type,Calorie Labeling,3,1009896
+recent_baseline_may_jul_2026,complaint_type,DEP Street Condition,3,1009896
+recent_baseline_may_jul_2026,complaint_type,Oil or Gas Spill,3,1009896
+recent_baseline_may_jul_2026,complaint_type,Highway Sign - Dangling,3,1009896
+recent_baseline_may_jul_2026,complaint_type,Transfer Station Complaint,3,1009896
+recent_baseline_may_jul_2026,complaint_type,Tanning,2,1009896
+recent_baseline_may_jul_2026,complaint_type,Taxi Licensee Complaint,2,1009896
+recent_baseline_may_jul_2026,complaint_type,DEP Sidewalk Condition,2,1009896
+recent_baseline_may_jul_2026,complaint_type,Tunnel Condition,2,1009896
+recent_baseline_may_jul_2026,complaint_type,Squeegee,2,1009896
+recent_baseline_may_jul_2026,complaint_type,X-Ray Machine/Equipment,2,1009896
+recent_baseline_may_jul_2026,complaint_type,Public Payphone Complaint,2,1009896
+recent_baseline_may_jul_2026,complaint_type,Leaning Bar,2,1009896
+recent_baseline_may_jul_2026,complaint_type,Waste Water Treatment Plant,1,1009896
+recent_baseline_may_jul_2026,complaint_type,Building Condition,1,1009896
+recent_baseline_may_jul_2026,complaint_type,FHV Licensee Complaint,1,1009896
+recent_baseline_may_jul_2026,complaint_type,DEP Highway Condition,1,1009896
+recent_baseline_may_jul_2026,borough,BROOKLYN,315816,1009896
+recent_baseline_may_jul_2026,borough,QUEENS,260364,1009896
+recent_baseline_may_jul_2026,borough,BRONX,199722,1009896
+recent_baseline_may_jul_2026,borough,MANHATTAN,192198,1009896
+recent_baseline_may_jul_2026,borough,STATEN ISLAND,40532,1009896
+recent_baseline_may_jul_2026,borough,Unspecified,1264,1009896
+recent_baseline_may_jul_2026,agency,NYPD,479263,1009896
+recent_baseline_may_jul_2026,agency,HPD,153933,1009896
+recent_baseline_may_jul_2026,agency,DSNY,84974,1009896
+recent_baseline_may_jul_2026,agency,DOT,72463,1009896
+recent_baseline_may_jul_2026,agency,DEP,70668,1009896
+recent_baseline_may_jul_2026,agency,DPR,57799,1009896
+recent_baseline_may_jul_2026,agency,DOB,32458,1009896
+recent_baseline_may_jul_2026,agency,DOHMH,24375,1009896
+recent_baseline_may_jul_2026,agency,DHS,14313,1009896
+recent_baseline_may_jul_2026,agency,TLC,10256,1009896
+recent_baseline_may_jul_2026,agency,DCWP,6024,1009896
+recent_baseline_may_jul_2026,agency,EDC,2051,1009896
+recent_baseline_may_jul_2026,agency,OOS,1228,1009896
+recent_baseline_may_jul_2026,agency,OTI,91,1009896
+recent_baseline_may_jul_2026,open_data_channel_type,ONLINE,476598,1009896
+recent_baseline_may_jul_2026,open_data_channel_type,PHONE,236024,1009896
+recent_baseline_may_jul_2026,open_data_channel_type,MOBILE,206477,1009896
+recent_baseline_may_jul_2026,open_data_channel_type,UNKNOWN,88942,1009896
+recent_baseline_may_jul_2026,open_data_channel_type,OTHER,1855,1009896
+recent_baseline_may_jul_2026,status,Closed,950777,1009896
+recent_baseline_may_jul_2026,status,In Progress,39181,1009896
+recent_baseline_may_jul_2026,status,Open,14089,1009896
+recent_baseline_may_jul_2026,status,Assigned,4523,1009896
+recent_baseline_may_jul_2026,status,Pending,786,1009896
+recent_baseline_may_jul_2026,status,Started,522,1009896
+recent_baseline_may_jul_2026,status,Unspecified,18,1009896
+yoy_aug_2025,complaint_type,Illegal Parking,47243,304039
+yoy_aug_2025,complaint_type,Noise - Residential,32756,304039
+yoy_aug_2025,complaint_type,Noise - Street/Sidewalk,25205,304039
+yoy_aug_2025,complaint_type,Blocked Driveway,13282,304039
+yoy_aug_2025,complaint_type,UNSANITARY CONDITION,10842,304039
+yoy_aug_2025,complaint_type,Water System,7129,304039
+yoy_aug_2025,complaint_type,Abandoned Vehicle,6452,304039
+yoy_aug_2025,complaint_type,Dirty Condition,6414,304039
+yoy_aug_2025,complaint_type,Noise - Commercial,5812,304039
+yoy_aug_2025,complaint_type,Street Condition,5590,304039
+yoy_aug_2025,complaint_type,Drug Activity,5447,304039
+yoy_aug_2025,complaint_type,Encampment,5018,304039
+yoy_aug_2025,complaint_type,Noise,4809,304039
+yoy_aug_2025,complaint_type,PAINT/PLASTER,4765,304039
+yoy_aug_2025,complaint_type,PLUMBING,4747,304039
+yoy_aug_2025,complaint_type,Homeless Person Assistance,4646,304039
+yoy_aug_2025,complaint_type,Missed Collection,4444,304039
+yoy_aug_2025,complaint_type,Noise - Vehicle,4288,304039
+yoy_aug_2025,complaint_type,Illegal Dumping,3919,304039
+yoy_aug_2025,complaint_type,Derelict Vehicles,3836,304039
+yoy_aug_2025,complaint_type,Traffic Signal Condition,3495,304039
+yoy_aug_2025,complaint_type,Rodent,3388,304039
+yoy_aug_2025,complaint_type,Damaged Tree,3300,304039
+yoy_aug_2025,complaint_type,DOOR/WINDOW,3297,304039
+yoy_aug_2025,complaint_type,General Construction/Plumbing,3238,304039
+yoy_aug_2025,complaint_type,WATER LEAK,3125,304039
+yoy_aug_2025,complaint_type,Street Light Condition,3026,304039
+yoy_aug_2025,complaint_type,Vendor Enforcement,3020,304039
+yoy_aug_2025,complaint_type,Maintenance or Facility,2935,304039
+yoy_aug_2025,complaint_type,HEAT/HOT WATER,2929,304039
+yoy_aug_2025,complaint_type,Lead,2780,304039
+yoy_aug_2025,complaint_type,GENERAL,2684,304039
+yoy_aug_2025,complaint_type,Sidewalk Condition,2515,304039
+yoy_aug_2025,complaint_type,Sewer,2477,304039
+yoy_aug_2025,complaint_type,Overgrown Tree/Branches,2476,304039
+yoy_aug_2025,complaint_type,Non-Emergency Police Matter,2365,304039
+yoy_aug_2025,complaint_type,ELECTRIC,2360,304039
+yoy_aug_2025,complaint_type,FLOORING/STAIRS,2136,304039
+yoy_aug_2025,complaint_type,Obstruction,2109,304039
+yoy_aug_2025,complaint_type,Building/Use,2049,304039
+yoy_aug_2025,complaint_type,APPLIANCE,1916,304039
+yoy_aug_2025,complaint_type,Noise - Helicopter,1842,304039
+yoy_aug_2025,complaint_type,Elevator,1797,304039
+yoy_aug_2025,complaint_type,Consumer Complaint,1753,304039
+yoy_aug_2025,complaint_type,Noise - Park,1700,304039
+yoy_aug_2025,complaint_type,Traffic,1619,304039
+yoy_aug_2025,complaint_type,Panhandling,1428,304039
+yoy_aug_2025,complaint_type,Graffiti,1414,304039
+yoy_aug_2025,complaint_type,For Hire Vehicle Complaint,1400,304039
+yoy_aug_2025,complaint_type,Dead/Dying Tree,1329,304039
+yoy_aug_2025,complaint_type,Residential Disposal Complaint,1318,304039
+yoy_aug_2025,complaint_type,Food Establishment,1238,304039
+yoy_aug_2025,complaint_type,Air Quality,1110,304039
+yoy_aug_2025,complaint_type,Dead Animal,1095,304039
+yoy_aug_2025,complaint_type,Root/Sewer/Sidewalk Condition,1088,304039
+yoy_aug_2025,complaint_type,SAFETY,1040,304039
+yoy_aug_2025,complaint_type,Animal-Abuse,970,304039
+yoy_aug_2025,complaint_type,Taxi Complaint,926,304039
+yoy_aug_2025,complaint_type,Street Sweeping Complaint,804,304039
+yoy_aug_2025,complaint_type,Indoor Air Quality,697,304039
+yoy_aug_2025,complaint_type,Drinking,662,304039
+yoy_aug_2025,complaint_type,Curb Condition,657,304039
+yoy_aug_2025,complaint_type,Illegal Tree Damage,606,304039
+yoy_aug_2025,complaint_type,Violation of Park Rules,552,304039
+yoy_aug_2025,complaint_type,Real Time Enforcement,520,304039
+yoy_aug_2025,complaint_type,Illegal Fireworks,499,304039
+yoy_aug_2025,complaint_type,Lost Property,498,304039
+yoy_aug_2025,complaint_type,Mobile Food Vendor,485,304039
+yoy_aug_2025,complaint_type,Animal in a Park,453,304039
+yoy_aug_2025,complaint_type,Noise - House of Worship,429,304039
+yoy_aug_2025,complaint_type,Water Conservation,422,304039
+yoy_aug_2025,complaint_type,Smoking or Vaping,421,304039
+yoy_aug_2025,complaint_type,Illegal Posting,417,304039
+yoy_aug_2025,complaint_type,Outdoor Dining,385,304039
+yoy_aug_2025,complaint_type,Street Sign - Damaged,363,304039
+yoy_aug_2025,complaint_type,Special Projects Inspection Team (SPIT),355,304039
+yoy_aug_2025,complaint_type,Litter Basket Request,349,304039
+yoy_aug_2025,complaint_type,Emergency Response Team (ERT),305,304039
+yoy_aug_2025,complaint_type,Street Sign - Missing,293,304039
+yoy_aug_2025,complaint_type,Plumbing,288,304039
+yoy_aug_2025,complaint_type,Broken Parking Meter,279,304039
+yoy_aug_2025,complaint_type,Hazardous Materials,259,304039
+yoy_aug_2025,complaint_type,Sanitation Worker or Vehicle Complaint,253,304039
+yoy_aug_2025,complaint_type,Unsanitary Animal Pvt Property,250,304039
+yoy_aug_2025,complaint_type,Food Poisoning,248,304039
+yoy_aug_2025,complaint_type,Highway Condition,242,304039
+yoy_aug_2025,complaint_type,Abandoned Bike,220,304039
+yoy_aug_2025,complaint_type,Bike/Roller/Skate Chronic,218,304039
+yoy_aug_2025,complaint_type,Street Sign - Dangling,212,304039
+yoy_aug_2025,complaint_type,Standing Water,209,304039
+yoy_aug_2025,complaint_type,Unsanitary Pigeon Condition,207,304039
+yoy_aug_2025,complaint_type,Lot Condition,204,304039
+yoy_aug_2025,complaint_type,Day Care,180,304039
+yoy_aug_2025,complaint_type,Urinating in Public,177,304039
+yoy_aug_2025,complaint_type,Dumpster Complaint,169,304039
+yoy_aug_2025,complaint_type,Electrical,164,304039
+yoy_aug_2025,complaint_type,Litter Basket Complaint,162,304039
+yoy_aug_2025,complaint_type,Unleashed Dog,157,304039
+yoy_aug_2025,complaint_type,Boilers,154,304039
+yoy_aug_2025,complaint_type,ELEVATOR,140,304039
+yoy_aug_2025,complaint_type,Commercial Disposal Complaint,135,304039
+yoy_aug_2025,complaint_type,Asbestos,127,304039
+yoy_aug_2025,complaint_type,Construction Lead Dust,112,304039
+yoy_aug_2025,complaint_type,Water Quality,105,304039
+yoy_aug_2025,complaint_type,Bus Stop Shelter Complaint,104,304039
+yoy_aug_2025,complaint_type,OUTSIDE BUILDING,97,304039
+yoy_aug_2025,complaint_type,Illegal Animal Kept as Pet,92,304039
+yoy_aug_2025,complaint_type,Harboring Bees/Wasps,87,304039
+yoy_aug_2025,complaint_type,Wood Pile Remaining,85,304039
+yoy_aug_2025,complaint_type,Taxi Report,81,304039
+yoy_aug_2025,complaint_type,Mosquitoes,79,304039
+yoy_aug_2025,complaint_type,Industrial Waste,74,304039
+yoy_aug_2025,complaint_type,Investigations and Discipline (IAD),59,304039
+yoy_aug_2025,complaint_type,Green Taxi Complaint,57,304039
+yoy_aug_2025,complaint_type,Bike Rack,57,304039
+yoy_aug_2025,complaint_type,New Tree Request,55,304039
+yoy_aug_2025,complaint_type,BEST/Site Safety,53,304039
+yoy_aug_2025,complaint_type,E-Scooter,52,304039
+yoy_aug_2025,complaint_type,Indoor Sewage,47,304039
+yoy_aug_2025,complaint_type,School Maintenance,35,304039
+yoy_aug_2025,complaint_type,Mold,31,304039
+yoy_aug_2025,complaint_type,Ferry Inquiry,31,304039
+yoy_aug_2025,complaint_type,Pet Sale,30,304039
+yoy_aug_2025,complaint_type,Uprooted Stump,29,304039
+yoy_aug_2025,complaint_type,Drinking Water,26,304039
+yoy_aug_2025,complaint_type,Beach/Pool/Sauna Complaint,25,304039
+yoy_aug_2025,complaint_type,For Hire Vehicle Report,25,304039
+yoy_aug_2025,complaint_type,Bus Stop Shelter Placement,23,304039
+yoy_aug_2025,complaint_type,Posting Advertisement,23,304039
+yoy_aug_2025,complaint_type,Plant,22,304039
+yoy_aug_2025,complaint_type,Poison Ivy,20,304039
+yoy_aug_2025,complaint_type,Recycling Basket Complaint,18,304039
+yoy_aug_2025,complaint_type,Bridge Condition,18,304039
+yoy_aug_2025,complaint_type,Disorderly Youth,18,304039
+yoy_aug_2025,complaint_type,Scaffold Safety,16,304039
+yoy_aug_2025,complaint_type,Tobacco or Non-Tobacco Sale,15,304039
+yoy_aug_2025,complaint_type,LinkNYC,14,304039
+yoy_aug_2025,complaint_type,Illegal Animal Sold,13,304039
+yoy_aug_2025,complaint_type,Ferry Complaint,12,304039
+yoy_aug_2025,complaint_type,Highway Sign - Damaged,11,304039
+yoy_aug_2025,complaint_type,Cooling Tower,11,304039
+yoy_aug_2025,complaint_type,Bench,11,304039
+yoy_aug_2025,complaint_type,Unspecified,10,304039
+yoy_aug_2025,complaint_type,Highway Sign - Missing,10,304039
+yoy_aug_2025,complaint_type,Tattooing,9,304039
+yoy_aug_2025,complaint_type,Taxi Compliment,9,304039
+yoy_aug_2025,complaint_type,Animal Facility - No Permit,9,304039
+yoy_aug_2025,complaint_type,Found Property,6,304039
+yoy_aug_2025,complaint_type,Unsanitary Animal Facility,5,304039
+yoy_aug_2025,complaint_type,Building Drinking Water Tank,5,304039
+yoy_aug_2025,complaint_type,Public Toilet,5,304039
+yoy_aug_2025,complaint_type,Green Taxi Report,4,304039
+yoy_aug_2025,complaint_type,Lifeguard,4,304039
+yoy_aug_2025,complaint_type,Municipal Parking Facility,4,304039
+yoy_aug_2025,complaint_type,Institution Disposal Complaint,4,304039
+yoy_aug_2025,complaint_type,Dept of Investigations,3,304039
+yoy_aug_2025,complaint_type,Public Payphone Complaint,3,304039
+yoy_aug_2025,complaint_type,AHV Inspection Unit,3,304039
+yoy_aug_2025,complaint_type,Incorrect Data,3,304039
+yoy_aug_2025,complaint_type,Sewer Maintenance,2,304039
+yoy_aug_2025,complaint_type,Special Natural Area District (SNAD),2,304039
+yoy_aug_2025,complaint_type,Highway Sign - Dangling,2,304039
+yoy_aug_2025,complaint_type,Cranes and Derricks,2,304039
+yoy_aug_2025,complaint_type,Radioactive Material,1,304039
+yoy_aug_2025,complaint_type,DSNY Internal,1,304039
+yoy_aug_2025,complaint_type,FHV Licensee Complaint,1,304039
+yoy_aug_2025,complaint_type,Transfer Station Complaint,1,304039
+yoy_aug_2025,complaint_type,Wayfinding,1,304039
+yoy_aug_2025,borough,BROOKLYN,88258,304039
+yoy_aug_2025,borough,QUEENS,84148,304039
+yoy_aug_2025,borough,MANHATTAN,59889,304039
+yoy_aug_2025,borough,BRONX,59391,304039
+yoy_aug_2025,borough,STATEN ISLAND,12152,304039
+yoy_aug_2025,borough,Unspecified,201,304039
+yoy_aug_2025,agency,NYPD,154237,304039
+yoy_aug_2025,agency,HPD,40078,304039
+yoy_aug_2025,agency,DSNY,30333,304039
+yoy_aug_2025,agency,DEP,19267,304039
+yoy_aug_2025,agency,DOT,17321,304039
+yoy_aug_2025,agency,DPR,12908,304039
+yoy_aug_2025,agency,DOB,9008,304039
+yoy_aug_2025,agency,DOHMH,8150,304039
+yoy_aug_2025,agency,DHS,6083,304039
+yoy_aug_2025,agency,TLC,3007,304039
+yoy_aug_2025,agency,EDC,1842,304039
+yoy_aug_2025,agency,DCWP,1753,304039
+yoy_aug_2025,agency,DOE,35,304039
+yoy_aug_2025,agency,OTI,17,304039
+yoy_aug_2025,open_data_channel_type,ONLINE,136449,304039
+yoy_aug_2025,open_data_channel_type,PHONE,80012,304039
+yoy_aug_2025,open_data_channel_type,MOBILE,65738,304039
+yoy_aug_2025,open_data_channel_type,UNKNOWN,21839,304039
+yoy_aug_2025,open_data_channel_type,OTHER,1,304039
+yoy_aug_2025,status,Closed,298191,304039
+yoy_aug_2025,status,In Progress,4734,304039
+yoy_aug_2025,status,Pending,427,304039
+yoy_aug_2025,status,Assigned,318,304039
+yoy_aug_2025,status,Open,245,304039
+yoy_aug_2025,status,Started,121,304039
+yoy_aug_2025,status,Unspecified,3,304039
+target_aug_2026,complaint_type,Illegal Parking,51216,328701
+target_aug_2026,complaint_type,Noise - Residential,30622,328701
+target_aug_2026,complaint_type,Noise - Street/Sidewalk,23644,328701
+target_aug_2026,complaint_type,UNSANITARY CONDITION,14650,328701
+target_aug_2026,complaint_type,Blocked Driveway,14636,328701
+target_aug_2026,complaint_type,Street Condition,9552,328701
+target_aug_2026,complaint_type,Water Maintenance,8925,328701
+target_aug_2026,complaint_type,Dirty Condition,7153,328701
+target_aug_2026,complaint_type,Abandoned Vehicle,6815,328701
+target_aug_2026,complaint_type,PLUMBING,6666,328701
+target_aug_2026,complaint_type,PAINT/PLASTER,6604,328701
+target_aug_2026,complaint_type,WATER LEAK,5481,328701
+target_aug_2026,complaint_type,Sewer Maintenance,5060,328701
+target_aug_2026,complaint_type,Noise - Vehicle,5030,328701
+target_aug_2026,complaint_type,Encampment,4990,328701
+target_aug_2026,complaint_type,Noise - Commercial,4955,328701
+target_aug_2026,complaint_type,Damaged Tree,4814,328701
+target_aug_2026,complaint_type,Noise,4581,328701
+target_aug_2026,complaint_type,Traffic Signal Condition,4535,328701
+target_aug_2026,complaint_type,GENERAL,4479,328701
+target_aug_2026,complaint_type,DOOR/WINDOW,4417,328701
+target_aug_2026,complaint_type,Illegal Dumping,4042,328701
+target_aug_2026,complaint_type,General Construction/Plumbing,3940,328701
+target_aug_2026,complaint_type,Missed Collection,3723,328701
+target_aug_2026,complaint_type,Street Light Condition,3690,328701
+target_aug_2026,complaint_type,HEAT/HOT WATER,3682,328701
+target_aug_2026,complaint_type,Maintenance or Facility,3400,328701
+target_aug_2026,complaint_type,Homeless Person Assistance,3396,328701
+target_aug_2026,complaint_type,Building/Use,3336,328701
+target_aug_2026,complaint_type,Rodent,3253,328701
+target_aug_2026,complaint_type,ELECTRIC,3140,328701
+target_aug_2026,complaint_type,Derelict Vehicles,3127,328701
+target_aug_2026,complaint_type,Overgrown Tree/Branches,3004,328701
+target_aug_2026,complaint_type,Obstruction,2745,328701
+target_aug_2026,complaint_type,FLOORING/STAIRS,2731,328701
+target_aug_2026,complaint_type,Elevator,2646,328701
+target_aug_2026,complaint_type,Sidewalk Condition,2543,328701
+target_aug_2026,complaint_type,Vendor Enforcement,2515,328701
+target_aug_2026,complaint_type,APPLIANCE,2510,328701
+target_aug_2026,complaint_type,Non-Emergency Police Matter,2071,328701
+target_aug_2026,complaint_type,Consumer Complaint,2044,328701
+target_aug_2026,complaint_type,Graffiti,1652,328701
+target_aug_2026,complaint_type,For Hire Vehicle Complaint,1649,328701
+target_aug_2026,complaint_type,Lead,1505,328701
+target_aug_2026,complaint_type,Food Establishment,1452,328701
+target_aug_2026,complaint_type,Dead/Dying Tree,1419,328701
+target_aug_2026,complaint_type,Residential Disposal Complaint,1290,328701
+target_aug_2026,complaint_type,SAFETY,1282,328701
+target_aug_2026,complaint_type,Noise - Park,1238,328701
+target_aug_2026,complaint_type,Panhandling,1160,328701
+target_aug_2026,complaint_type,Air Quality,1141,328701
+target_aug_2026,complaint_type,Dead Animal,1074,328701
+target_aug_2026,complaint_type,Animal-Abuse,1073,328701
+target_aug_2026,complaint_type,Root/Sewer/Sidewalk Condition,1031,328701
+target_aug_2026,complaint_type,Drug Activity,947,328701
+target_aug_2026,complaint_type,Indoor Air Quality,946,328701
+target_aug_2026,complaint_type,Curb Condition,850,328701
+target_aug_2026,complaint_type,Taxi Complaint,787,328701
+target_aug_2026,complaint_type,Street Sweeping Complaint,702,328701
+target_aug_2026,complaint_type,Violation of Park Rules,674,328701
+target_aug_2026,complaint_type,Real Time Enforcement,670,328701
+target_aug_2026,complaint_type,Illegal Tree Damage,594,328701
+target_aug_2026,complaint_type,Drinking,590,328701
+target_aug_2026,complaint_type,Smoking or Vaping,553,328701
+target_aug_2026,complaint_type,Lost Property,546,328701
+target_aug_2026,complaint_type,Illegal Fireworks,515,328701
+target_aug_2026,complaint_type,Traffic,474,328701
+target_aug_2026,complaint_type,Litter Basket Request,467,328701
+target_aug_2026,complaint_type,Plumbing,452,328701
+target_aug_2026,complaint_type,Animal in a Park,436,328701
+target_aug_2026,complaint_type,Street Sign - Damaged,436,328701
+target_aug_2026,complaint_type,Water Conservation,414,328701
+target_aug_2026,complaint_type,Cannabis Retailer,390,328701
+target_aug_2026,complaint_type,Illegal Posting,387,328701
+target_aug_2026,complaint_type,Standing Water,386,328701
+target_aug_2026,complaint_type,Highway Condition,362,328701
+target_aug_2026,complaint_type,Special Projects Inspection Team (SPIT),341,328701
+target_aug_2026,complaint_type,Broken Parking Meter,315,328701
+target_aug_2026,complaint_type,Emergency Response Team (ERT),311,328701
+target_aug_2026,complaint_type,Unsanitary Animal Pvt Property,306,328701
+target_aug_2026,complaint_type,Sanitation Worker or Vehicle Complaint,289,328701
+target_aug_2026,complaint_type,Street Sign - Missing,281,328701
+target_aug_2026,complaint_type,Food Poisoning,279,328701
+target_aug_2026,complaint_type,Dumpster Complaint,276,328701
+target_aug_2026,complaint_type,Bike/Roller/Skate,274,328701
+target_aug_2026,complaint_type,Outdoor Dining,268,328701
+target_aug_2026,complaint_type,Mobile Food Vendor,267,328701
+target_aug_2026,complaint_type,Lot Condition,250,328701
+target_aug_2026,complaint_type,Street Sign - Dangling,248,328701
+target_aug_2026,complaint_type,ELEVATOR,242,328701
+target_aug_2026,complaint_type,Hazardous Material,229,328701
+target_aug_2026,complaint_type,Noise - Helicopter,229,328701
+target_aug_2026,complaint_type,Mosquitoes,224,328701
+target_aug_2026,complaint_type,Wood Pile Remaining,223,328701
+target_aug_2026,complaint_type,Unleashed Dog,218,328701
+target_aug_2026,complaint_type,Urinating in Public,205,328701
+target_aug_2026,complaint_type,Unsanitary Pigeon Condition,204,328701
+target_aug_2026,complaint_type,Electrical,201,328701
+target_aug_2026,complaint_type,Abandoned Bike,197,328701
+target_aug_2026,complaint_type,Litter Basket Complaint,184,328701
+target_aug_2026,complaint_type,Commercial Disposal Complaint,164,328701
+target_aug_2026,complaint_type,Boilers,155,328701
+target_aug_2026,complaint_type,Day Care,141,328701
+target_aug_2026,complaint_type,Industrial Waste,127,328701
+target_aug_2026,complaint_type,Construction Lead Dust,122,328701
+target_aug_2026,complaint_type,Green Infrastructure,120,328701
+target_aug_2026,complaint_type,OUTSIDE BUILDING,119,328701
+target_aug_2026,complaint_type,For Hire Vehicle Report,113,328701
+target_aug_2026,complaint_type,Water Quality,109,328701
+target_aug_2026,complaint_type,Noise - House of Worship,105,328701
+target_aug_2026,complaint_type,Bus Stop Shelter Complaint,97,328701
+target_aug_2026,complaint_type,Investigations and Discipline (IAD),88,328701
+target_aug_2026,complaint_type,Taxi Report,81,328701
+target_aug_2026,complaint_type,Indoor Sewage,79,328701
+target_aug_2026,complaint_type,Illegal Animal Kept as Pet,72,328701
+target_aug_2026,complaint_type,Harboring Bees/Wasps,66,328701
+target_aug_2026,complaint_type,Bike Rack,65,328701
+target_aug_2026,complaint_type,New Tree Request,64,328701
+target_aug_2026,complaint_type,Asbestos,54,328701
+target_aug_2026,complaint_type,Mold,52,328701
+target_aug_2026,complaint_type,Uprooted Stump,46,328701
+target_aug_2026,complaint_type,E-Scooter,46,328701
+target_aug_2026,complaint_type,BEST/Site Safety,42,328701
+target_aug_2026,complaint_type,Drinking Water,38,328701
+target_aug_2026,complaint_type,Bus Stop Shelter Placement,37,328701
+target_aug_2026,complaint_type,Green Taxi Complaint,37,328701
+target_aug_2026,complaint_type,Bridge Condition,37,328701
+target_aug_2026,complaint_type,Ferry Inquiry,30,328701
+target_aug_2026,complaint_type,AHV Inspection Unit,29,328701
+target_aug_2026,complaint_type,Pet Sale,28,328701
+target_aug_2026,complaint_type,Beach/Pool/Sauna Complaint,27,328701
+target_aug_2026,complaint_type,Tattooing,26,328701
+target_aug_2026,complaint_type,Poison Ivy,21,328701
+target_aug_2026,complaint_type,Illegal Animal Sold,21,328701
+target_aug_2026,complaint_type,LinkNYC,20,328701
+target_aug_2026,complaint_type,Animal Facility - No Permit,19,328701
+target_aug_2026,complaint_type,Ferry Complaint,17,328701
+target_aug_2026,complaint_type,Disorderly Youth,17,328701
+target_aug_2026,complaint_type,Bench,17,328701
+target_aug_2026,complaint_type,Waste Water Treatment Plant,17,328701
+target_aug_2026,complaint_type,Posting Advertisement,16,328701
+target_aug_2026,complaint_type,Municipal Parking Facility,11,328701
+target_aug_2026,complaint_type,Tobacco or Non-Tobacco Sale,11,328701
+target_aug_2026,complaint_type,Taxi Compliment,11,328701
+target_aug_2026,complaint_type,Unsanitary Animal Facility,9,328701
+target_aug_2026,complaint_type,Public Toilet,9,328701
+target_aug_2026,complaint_type,Cooling Tower,8,328701
+target_aug_2026,complaint_type,Scaffold Safety,8,328701
+target_aug_2026,complaint_type,Recycling Basket Complaint,8,328701
+target_aug_2026,complaint_type,Cranes and Derricks,7,328701
+target_aug_2026,complaint_type,Found Property,6,328701
+target_aug_2026,complaint_type,Institution Disposal Complaint,6,328701
+target_aug_2026,complaint_type,Dept of Investigations,6,328701
+target_aug_2026,complaint_type,Lifeguard,5,328701
+target_aug_2026,complaint_type,Dry Weather Discharge,5,328701
+target_aug_2026,complaint_type,Highway Sign - Missing,4,328701
+target_aug_2026,complaint_type,Window Guard,4,328701
+target_aug_2026,complaint_type,Special Natural Area District (SNAD),4,328701
+target_aug_2026,complaint_type,Building Drinking Water Tank,3,328701
+target_aug_2026,complaint_type,Incorrect Data,3,328701
+target_aug_2026,complaint_type,Radioactive Material,3,328701
+target_aug_2026,complaint_type,Borough Office,3,328701
+target_aug_2026,complaint_type,Calorie Labeling,3,328701
+target_aug_2026,complaint_type,Green Taxi Report,3,328701
+target_aug_2026,complaint_type,Highway Sign - Damaged,2,328701
+target_aug_2026,complaint_type,Highway Sign - Dangling,2,328701
+target_aug_2026,complaint_type,Wayfinding,2,328701
+target_aug_2026,complaint_type,Transfer Station Complaint,2,328701
+target_aug_2026,complaint_type,DEP Street Condition,1,328701
+target_aug_2026,complaint_type,Building Condition,1,328701
+target_aug_2026,complaint_type,Oil or Gas Spill,1,328701
+target_aug_2026,complaint_type,Tanning,1,328701
+target_aug_2026,borough,BROOKLYN,103859,328701
+target_aug_2026,borough,QUEENS,84641,328701
+target_aug_2026,borough,BRONX,64235,328701
+target_aug_2026,borough,MANHATTAN,62445,328701
+target_aug_2026,borough,STATEN ISLAND,13154,328701
+target_aug_2026,borough,Unspecified,367,328701
+target_aug_2026,agency,NYPD,149901,328701
+target_aug_2026,agency,HPD,56003,328701
+target_aug_2026,agency,DSNY,30220,328701
+target_aug_2026,agency,DOT,23395,328701
+target_aug_2026,agency,DEP,22233,328701
+target_aug_2026,agency,DPR,15705,328701
+target_aug_2026,agency,DOB,12239,328701
+target_aug_2026,agency,DOHMH,8901,328701
+target_aug_2026,agency,DHS,4188,328701
+target_aug_2026,agency,TLC,3233,328701
+target_aug_2026,agency,DCWP,2044,328701
+target_aug_2026,agency,OOS,390,328701
+target_aug_2026,agency,EDC,229,328701
+target_aug_2026,agency,OTI,20,328701
+target_aug_2026,open_data_channel_type,ONLINE,166947,328701
+target_aug_2026,open_data_channel_type,PHONE,71435,328701
+target_aug_2026,open_data_channel_type,MOBILE,61463,328701
+target_aug_2026,open_data_channel_type,UNKNOWN,28856,328701
+target_aug_2026,status,Closed,288348,328701
+target_aug_2026,status,In Progress,21899,328701
+target_aug_2026,status,Open,16884,328701
+target_aug_2026,status,Assigned,1375,328701
+target_aug_2026,status,Pending,174,328701
+target_aug_2026,status,Unspecified,21,328701

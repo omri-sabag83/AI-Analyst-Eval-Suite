@@ -1,0 +1,14 @@
+{
+  "clean": true,
+  "flags": [],
+  "notes": [],
+  "tool_calls": 8,
+  "agent_spawns": 0,
+  "skill_invocations": [],
+  "skills_listed_in_session": [
+    "analysis-rigor-pass",
+    "independent-verification",
+    "investigator"
+  ],
+  "session_model": "claude-opus-5-5"
+}
